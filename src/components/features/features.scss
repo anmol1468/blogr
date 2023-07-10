@@ -1,0 +1,15 @@
+.features {
+  align-items: center;
+  margin-right: -12rem;
+  width: 100%;
+  overflow: hidden;
+
+  &.reverse {
+    margin-right: 0;
+    margin-left: -11rem;
+  }
+
+  img {
+    margin-right: -12rem;
+  }
+}

@@ -1,0 +1,8 @@
+.header {
+  background: rgb(255, 143, 113);
+  background: url("../../assets//images/bg-pattern-intro-desktop.svg"),
+    linear-gradient(41deg, rgba(255, 143, 113, 1) 0%, rgba(255, 62, 85, 1) 100%);
+  /* background-image: url("../../../assets/images/bg-pattern-intro-desktop.svg"); */
+  background-position: bottom;
+  background-size: cover;
+}

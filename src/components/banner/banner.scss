@@ -1,0 +1,24 @@
+.banner {
+  background: rgb(45, 46, 64);
+  background: url("../../assets/images/bg-pattern-circles.svg"),
+    linear-gradient(41deg, rgba(45, 46, 64, 1) 0%, rgba(63, 65, 100, 1) 100%);
+  border-radius: 0 6rem 0 6rem;
+  // max-height: 25rem;
+  align-items: center;
+  background-position: top left;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  .illustration {
+    img {
+      margin-top: -4rem;
+      margin-bottom: -6rem;
+      // display: none;
+    }
+  }
+
+  .info {
+    align-items: center;
+    color: #fff;
+  }
+}
